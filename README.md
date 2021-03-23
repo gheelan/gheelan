@@ -1,6 +1,6 @@
 <H2>Hello, I'm Greg Heelan &#9996</H2>
 
-<p>I am a self-taught developer located in Portland, OR &#127748. I am most well versed in backend development and I am excited by contributing to applications that improve people's lives! Currently, I'm seeking an entry-level role that will allow me to continue learning and growing as a developer on a team of dedicated professionals.
+<p>I am a self-taught developer located in Portland, OR &#127748. I am most well versed in backend development and I am excited by contributing to applications that improve people's lives! Currently, I am seeking an internship or entry-level position that will allow me to apply my knowledge of software development, while continuing to strengthen and expand upon my skillset, through collaboration with experienced developers. 
 
 <ul>
 <li>I'm interested in: open source projects, civic tech, web applications</li>
