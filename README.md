@@ -1,4 +1,4 @@
-<H2>Hello, I'm Greg Heelan</H2>
+<H2>Hello, I'm Greg Heelan &#128075;</H2>
 
 <p>I am a Software Application Engineer located in Portland, OR &#127748. I am most well versed in backend development and I am excited by contributing to applications that improve people's lives!
 
